@@ -16,5 +16,6 @@
     },
     "browser": {
         "crypto": false
+
     }
 }
